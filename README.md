@@ -1,0 +1,2 @@
+# NumericalCalculation_Practice_Octave
+Octaveでの数値解析の練習用レポジトリ
