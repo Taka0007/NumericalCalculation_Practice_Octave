@@ -21,3 +21,14 @@ x^y
 
 x**y
 # ans = 8
+
+
+# 複素数
+z  = 1 + 1i;
+z2 = 7 + 3i;
+
+## 絶対値
+printf("abs(z) =  %d! \n", abs(z));
+printf("abs(z2) =  %d! \n", abs(z2));
+## abs(z) =  1.41421! 
+## abs(z2) =  7.61577!  
