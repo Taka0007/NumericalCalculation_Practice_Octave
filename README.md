@@ -1,6 +1,9 @@
 ## What is this?
 Octaveでの数値解析の練習用レポジトリ。 <br>
 
+[Octaveコンパイラ](https://www.mycompiler.io/ja/new/octave) <br>
+このオンラインコンパイラを使用して計算していきます。
+
 
 ## 参考文献
 [1] Octaveを用いた数値計算入門
