@@ -32,3 +32,9 @@ printf("abs(z) =  %d! \n", abs(z));
 printf("abs(z2) =  %d! \n", abs(z2));
 ## abs(z) =  1.41421! 
 ## abs(z2) =  7.61577!  
+
+## 表示桁数の増やし方
+format long
+pi
+## ans = 3.141592653589793
+## 普通の表示は ans = 3.1416
